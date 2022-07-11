@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "comentaireApp",
+    "slug": "comentaireApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "comentaireApp"
+}
